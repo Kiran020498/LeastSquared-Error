@@ -125,6 +125,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## Contact
 
 - Your Name
-- Email: your.email@example.com
-- LinkedIn: [yourprofile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: kiranbegur98@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kiran-kumar-dev/
+
