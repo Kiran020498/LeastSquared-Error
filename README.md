@@ -124,7 +124,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Contact
 
-- Your Name
+- Kiran Kumar Begur
 - Email: kiranbegur98@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kiran-kumar-dev/
+
 
