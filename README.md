@@ -25,7 +25,7 @@ Data analysis and visualization are essential for deriving meaningful insights f
 ## Project Structure
 
 ```plaintext
-UC-9850/
+LeastSquaredError/
 ├── data/
 │   ├── train.csv
 │   ├── ideal.csv
@@ -127,5 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - Kiran Kumar Begur
 - Email: kiranbegur98@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kiran-kumar-dev/
+
 
 
